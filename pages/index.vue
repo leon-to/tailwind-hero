@@ -10,15 +10,3 @@
     </div>
   </div>
 </template>
-
-<script>
-// import ContentList from '~/components/ContentList.vue'
-// import TopNavBar from '~/components/TopNavBar.vue'
-// import SideNavBar from '~/components/SideNavBar.vue'
-
-// export default {
-// components: { TopNavBar, SideNavBar, ContentList },
-//   name: 'IndexPage'
-// }
-
-</script>
